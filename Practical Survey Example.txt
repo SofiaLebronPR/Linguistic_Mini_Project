@@ -1,0 +1,13 @@
+Google form example for the data collected
+
+Quick, practical survey (8 questions, ~3–4 mins)
+
+
+ 1. Consent  Type: Multiple choice (required)  Prompt: Do you consent for your anonymous response to be used for today’s in-class analysis demo?  Options: Yes / No  
+2. Primary language  Type: Multiple choice  Options: Spanish / English / Bilingual / Other 
+3. Platform you read most  Type: Multiple choice  Options: Instagram / TikTok / YouTube / Facebook / X (Twitter) / Reddit / Other  
+4. Memes — quick feeling  Type: Multiple choice  Prompt: How do memes usually make you feel?  Options: Funny / Mixed / Neutral / Annoyed / Critical / Hopeful / Other  
+5. News headlines — quick feeling  Type: Multiple choice  Prompt: When you read news headlines online, you often feel…  Options: Hopeful / Skeptical / Worried / Neutral / Curious / Other  
+6. One-sentence comment (the text for analysis)  Type: Short answer (required)  Prompt: Write one sentence reacting to a recent meme or headline you saw (no links, just your words).  
+7. Optional: Where do you usually comment?  Type: Multiple choice  Options: I don’t comment / I only react (likes/emojis) / I comment sometimes / I comment a lot  
+8. (Optional) One word about online identity  Type: Short answer  Prompt: One word that describes online identity today.
